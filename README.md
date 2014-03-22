@@ -1,0 +1,1 @@
+A first stab at automatic crud for random json data
